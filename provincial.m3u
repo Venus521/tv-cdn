@@ -728,6 +728,8 @@ http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="水浒传" group-title="地方频道",水浒传
 http://173.208.234.146/live/vlshz.m3u8
+#EXTINF:-1 tvg-name="2025年春晚" group-title="地方频道",2025年春晚
+https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="河北公共" group-title="地方频道",河北公共
 http://1.94.31.214/php/hebei.php?id=hbgg
 #EXTINF:-1 tvg-name="地理中国" group-title="地方频道",地理中国
