@@ -174,40 +174,56 @@ https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="One" group-title="海外频道",One
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-name="ERT3" group-title="海外频道",ERT3
+https://ert-live.siliconweb.com/bpk-tv/ERT3/default/index.mpd
 #EXTINF:-1 tvg-name="L1" group-title="海外频道",L1
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-name="BBCNews" group-title="海外频道",BBCNews
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-name="MAKTV" group-title="海外频道",MAKTV
+https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 tvg-name="RaiPremium" group-title="海外频道",RaiPremium
 https://d3k8wzt41aflvx.cloudfront.net/RaiPremium/Live.m3u8
 #EXTINF:-1 tvg-name="SuperscreenTV" group-title="海外频道",SuperscreenTV
 https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai3" group-title="海外频道",Rai3
 https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1 tvg-name="CSMystery" group-title="海外频道",CSMystery
+https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Mystery
 #EXTINF:-1 tvg-name="EagleNewsHD" group-title="海外频道",EagleNewsHD
 https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
 #EXTINF:-1 tvg-name="MTVLebanon" group-title="海外频道",MTVLebanon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
+#EXTINF:-1 tvg-name="ERT2" group-title="海外频道",ERT2
+https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd
 #EXTINF:-1 tvg-name="OmroepZeeland" group-title="海外频道",OmroepZeeland
 http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 #EXTINF:-1 tvg-name="Meganoticias" group-title="海外频道",Meganoticias
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 #EXTINF:-1 tvg-name="Rai1" group-title="海外频道",Rai1
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
+#EXTINF:-1 tvg-name="RotanaCinema" group-title="海外频道",RotanaCinema
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-name="TvaVicenza" group-title="海外频道",TvaVicenza
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 tvg-name="EspansioneTv" group-title="海外频道",EspansioneTv
 https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ArteBelgique" group-title="海外频道",ArteBelgique
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-name="NuvolaTv" group-title="海外频道",NuvolaTv
 https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
 #EXTINF:-1 tvg-name="CGtv" group-title="海外频道",CGtv
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Gulli" group-title="海外频道",Gulli
 http://99.27.51.147:8080/Gulli/index.m3u8
+#EXTINF:-1 tvg-name="RBBBerlin" group-title="海外频道",RBBBerlin
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="RTVRijnmond" group-title="海外频道",RTVRijnmond
 https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
 #EXTINF:-1 tvg-name="Mega2" group-title="海外频道",Mega2
 http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+#EXTINF:-1 tvg-name="TeleCupole" group-title="海外频道",TeleCupole
+https://load-balancer.azotosolutions.com/cdnedge40/telecupole/playlist.m3u8
 #EXTINF:-1 tvg-name="DeltaTv" group-title="海外频道",DeltaTv
 http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
 #EXTINF:-1 tvg-name="MBC4" group-title="海外频道",MBC4
@@ -292,6 +308,8 @@ https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-name="SuspilneSport" group-title="海外频道",SuspilneSport
 http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+#EXTINF:-1 tvg-name="JIBSTV" group-title="海外频道",JIBSTV
+http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-name="ETV" group-title="海外频道",ETV
 https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
 #EXTINF:-1 tvg-name="Markíza" group-title="海外频道",Markíza
@@ -320,6 +338,8 @@ https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-name="RTS2" group-title="海外频道",RTS2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 tvg-name="ANT1" group-title="海外频道",ANT1
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 tvg-name="DijlahTV" group-title="海外频道",DijlahTV
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 tvg-name="CanalRTVD4" group-title="海外频道",CanalRTVD4
@@ -352,6 +372,8 @@ https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="IraqFuture" group-title="海外频道",IraqFuture
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
+#EXTINF:-1 tvg-name="ZDF" group-title="海外频道",ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="STVRLive" group-title="海外频道",STVRLive
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
 #EXTINF:-1 tvg-name="TV7Albania" group-title="海外频道",TV7Albania
@@ -374,6 +396,8 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 #EXTINF:-1 tvg-name="K24TV" group-title="海外频道",K24TV
 https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo" group-title="海外频道",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="RTK3" group-title="海外频道",RTK3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1 tvg-name="Italia2Tv" group-title="海外频道",Italia2Tv
@@ -392,8 +416,12 @@ https://edge55.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 #EXTINF:-1 tvg-name="QuieroTV" group-title="海外频道",QuieroTV
 https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
+#EXTINF:-1 tvg-name="CNNPrimaNews" group-title="海外频道",CNNPrimaNews
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews
 #EXTINF:-1 tvg-name="LabTv" group-title="海外频道",LabTv
 https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
+#EXTINF:-1 tvg-name="TV5MondeInfo" group-title="海外频道",TV5MondeInfo
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-name="ProTV" group-title="海外频道",ProTV
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="La1" group-title="海外频道",La1
@@ -424,6 +452,8 @@ http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
 #EXTINF:-1 tvg-name="SharjahTV" group-title="海外频道",SharjahTV
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleLiban" group-title="海外频道",TeleLiban
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-name="GemsTV" group-title="海外频道",GemsTV
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NSports" group-title="海外频道",NSports
@@ -638,6 +668,8 @@ https://livestar.siliconweb.com/starvod/star4/star4.m3u8
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="TeleChiara" group-title="海外频道",TeleChiara
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 tvg-name="ARTE" group-title="海外频道",ARTE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-name="Canale10" group-title="海外频道",Canale10
 https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
 #EXTINF:-1 tvg-name="10Bold" group-title="海外频道",10Bold
@@ -674,6 +706,8 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 https://live.presstv.co.uk/hls/ifilmen.m3u8
 #EXTINF:-1 tvg-name="OndaWebRadio" group-title="海外频道",OndaWebRadio
 http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
+#EXTINF:-1 tvg-name="RadioBremen" group-title="海外频道",RadioBremen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-name="RetroMusicTV" group-title="海外频道",RetroMusicTV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Telenorba" group-title="海外频道",Telenorba
@@ -746,6 +780,8 @@ https://stream.smashmalta.com/live/webplayer/livestream/1.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Corfu" group-title="海外频道",Corfu
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="ONE" group-title="海外频道",ONE
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-name="TVApollon" group-title="海外频道",TVApollon
 https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
 #EXTINF:-1 tvg-name="Acheloos" group-title="海外频道",Acheloos
@@ -760,43 +796,7 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 tvg-name="BonDia" group-title="海外频道",BonDia
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
-#EXTINF:-1 tvg-name="TV3Cat" group-title="海外频道",TV3Cat
-https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
-#EXTINF:-1 tvg-name="Creta" group-title="海外频道",Creta
-http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1 tvg-name="NopolaNews" group-title="海外频道",NopolaNews
-https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TGNorba24" group-title="海外频道",TGNorba24
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
-#EXTINF:-1 tvg-name="RTPMemória" group-title="海外频道",RTPMemória
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="iFilmArabic" group-title="海外频道",iFilmArabic
-https://live.presstv.co.uk/hls/ifilmar.m3u8
-#EXTINF:-1 tvg-name="TRTEBALise" group-title="海外频道",TRTEBALise
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="91NRG" group-title="海外频道",91NRG
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-name="BeJoy.Kids" group-title="海外频道",BeJoy.Kids
-https://stream.paroledivita.org/bejoy.m3u8
-#EXTINF:-1 tvg-name="СоловьёвLive" group-title="海外频道",СоловьёвLive
-https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37
-#EXTINF:-1 tvg-name="Latr3Marsala" group-title="海外频道",Latr3Marsala
-https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
-#EXTINF:-1 tvg-name="DelfiTV" group-title="海外频道",DelfiTV
-https://s1.dcdn.lt/live/televizija/playlist.m3u8
-#EXTINF:-1 tvg-name="LatinaTV" group-title="海外频道",LatinaTV
-https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
-#EXTINF:-1 tvg-name="MadeinBO" group-title="海外频道",MadeinBO
-https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-name="SyrosTV1" group-title="海外频道",SyrosTV1
-https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1 tvg-name="Teleleonessa" group-title="海外频道",Teleleonessa
-http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8
-#EXTINF:-1 tvg-name="ОНТ" group-title="海外频道",ОНТ
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:ont.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Lychnos" group-title="海外频道",Lychnos
-https://thor.mental-media.gr:19360/imp/imp.m3u8
-#EXTINF:-1 tvg-name="ICIMontreal" group-title="海外频道",ICIMontreal
-https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-name="ZDFneo" group-title="海外频道",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="Viutv" group-title="海外频道",Viutv
 http://r.jdshipin.com/TcKr2
