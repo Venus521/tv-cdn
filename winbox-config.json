@@ -345,7 +345,7 @@
   {
    "name": "看电视·精选 10-30",
    "type": "multi",
-   "url": "https://fastly.jsdelivr.net/gh/Venus521/tv-cdn@main/live-selected.m3u"
+   "url": "https://gcore.jsdelivr.net/gh/Venus521/tv-cdn@main/live-selected.m3u"
   }
  ],
  "flags": [
