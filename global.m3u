@@ -226,6 +226,8 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="STVR:O" group-title="海外频道",STVR:O
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3AO
+#EXTINF:-1 tvg-name="Беларусь3" group-title="海外频道",Беларусь3
+https://edge55.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ParliamentTV" group-title="海外频道",ParliamentTV
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
 #EXTINF:-1 tvg-name="TV8HD" group-title="海外频道",TV8HD
@@ -252,6 +254,10 @@ https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:-1 tvg-name="Galaxy4" group-title="海外频道",Galaxy4
 http://141.94.193.53:80/Galaxy4_HD/index.m3u8
+#EXTINF:-1 tvg-name="Беларусь1" group-title="海外频道",Беларусь1
+https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Liv" group-title="海外频道",Liv
+https://live-fi.tvkaista.net/liv/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="RTPMundo" group-title="海外频道",RTPMundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="OrlerTv" group-title="海外频道",OrlerTv
@@ -380,6 +386,8 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_ch
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-name="TV5" group-title="海外频道",TV5
 https://cdn4.skygo.mn/live/disk1/TV5HD/HLSv3-FTA/TV5HD.m3u8
+#EXTINF:-1 tvg-name="Беларусь2" group-title="海外频道",Беларусь2
+https://edge55.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="111Tv" group-title="海外频道",111Tv
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 #EXTINF:-1 tvg-name="QuieroTV" group-title="海外频道",QuieroTV
@@ -790,13 +798,5 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:ont.smil/playlist.m3u8
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1 tvg-name="ICIMontreal" group-title="海外频道",ICIMontreal
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-name="МирБелогорья" group-title="海外频道",МирБелогорья
-http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-name="Alfa" group-title="海外频道",Alfa
-https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
-#EXTINF:-1 tvg-name="TG4" group-title="海外频道",TG4
-https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
-#EXTINF:-1 tvg-name="KoogiTV" group-title="海外频道",KoogiTV
-https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Viutv" group-title="海外频道",Viutv
 http://r.jdshipin.com/TcKr2
