@@ -16,6 +16,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-name="辽宁都市" group-title="地方频道",辽宁都市
 https://ls.qingting.fm/live/1099/64k.m3u8
+#EXTINF:-1 tvg-name="浙江" group-title="地方频道",浙江
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
 #EXTINF:-1 tvg-name="武汉一台新闻综合" group-title="地方频道",武汉一台新闻综合
 https://ls.qingting.fm/live/20198/64k.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活" group-title="地方频道",浙江经济生活
@@ -52,7 +54,7 @@ https://ls.qingting.fm/live/21303/64k.m3u8
 http://r.jdshipin.com/Lqdwf
 #EXTINF:-1 tvg-name="咪咕视频" group-title="地方频道",咪咕视频
 http://r.jdshipin.com/ln4xk
-#EXTINF:-1 tvg-name="浙江钱江频道" group-title="地方频道",浙江钱江频道
+#EXTINF:-1 tvg-name="浙江钱江" group-title="地方频道",浙江钱江
 http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江民生" group-title="地方频道",浙江民生
 http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -70,6 +72,8 @@ http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="庆元综合" group-title="地方频道",庆元综合
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
+#EXTINF:-1 tvg-name="南宁公共" group-title="地方频道",南宁公共
+http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8?zguangxd
 #EXTINF:-1 tvg-name="青田电视台" group-title="地方频道",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 tvg-name="开化国家公园" group-title="地方频道",开化国家公园
@@ -92,6 +96,8 @@ http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="庆元新闻综合" group-title="地方频道",庆元新闻综合
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
+#EXTINF:-1 tvg-name="南宁都市生活" group-title="地方频道",南宁都市生活
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8?zguangxd
 #EXTINF:-1 tvg-name="开化新闻综合" group-title="地方频道",开化新闻综合
 http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="湖州公共民生" group-title="地方频道",湖州公共民生
@@ -122,24 +128,38 @@ http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 tvg-name="象山综合" group-title="地方频道",象山综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 tvg-name="营山电视台" group-title="地方频道",营山电视台
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 #EXTINF:-1 tvg-name="平湖民生休闲" group-title="地方频道",平湖民生休闲
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 tvg-name="定西公共" group-title="地方频道",定西公共
+https://play.kankanlive.com/live/1645680054929933.m3u8?zgand
 #EXTINF:-1 tvg-name="平湖民生休闲" group-title="地方频道",平湖民生休闲
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="武义新闻综合" group-title="地方频道",武义新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="孟庭苇风中有朵雨做的云" group-title="地方频道",孟庭苇风中有朵雨做的云
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
+#EXTINF:-1 tvg-name="安徽导视" group-title="地方频道",安徽导视
+http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 #EXTINF:-1 tvg-name="辽宁教育青少" group-title="地方频道",辽宁教育青少
 http://120.76.248.139/live/bfgd/4200000075.m3u8
 #EXTINF:-1 tvg-name="诸暨新闻综合" group-title="地方频道",诸暨新闻综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="孟庭苇不下雨就出太阳吧" group-title="地方频道",孟庭苇不下雨就出太阳吧
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
 #EXTINF:-1 tvg-name="朝阳新闻综合" group-title="地方频道",朝阳新闻综合
 http://120.76.248.139/live/bfgd/4200000282.m3u8
+#EXTINF:-1 tvg-name="孟庭苇冬季到台北来看雨" group-title="地方频道",孟庭苇冬季到台北来看雨
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
 #EXTINF:-1 tvg-name="洞头综合" group-title="地方频道",洞头综合
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 #EXTINF:-1 tvg-name="新视觉" group-title="地方频道",新视觉
 http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1 tvg-name="滨海新闻综合" group-title="地方频道",滨海新闻综合
 http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
+#EXTINF:-1 tvg-name="宿州公共" group-title="地方频道",宿州公共
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
 #EXTINF:-1 tvg-name="春晚" group-title="地方频道",春晚
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 #EXTINF:-1 tvg-name="夹江新闻综合" group-title="地方频道",夹江新闻综合
@@ -178,6 +198,8 @@ http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 #EXTINF:-1 tvg-name="缙云新闻综合" group-title="地方频道",缙云新闻综合
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1 tvg-name="泸州公共" group-title="地方频道",泸州公共
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8?zsicd
 #EXTINF:-1 tvg-name="萧山生活" group-title="地方频道",萧山生活
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-name="北京科教" group-title="地方频道",北京科教
@@ -216,6 +238,8 @@ http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 #EXTINF:-1 tvg-name="涟水综合" group-title="地方频道",涟水综合
 http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+#EXTINF:-1 tvg-name="田电视台" group-title="地方频道",田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="沐川综合" group-title="地方频道",沐川综合
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 #EXTINF:-1 tvg-name="名山综合" group-title="地方频道",名山综合
@@ -238,16 +262,24 @@ http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 #EXTINF:-1 tvg-name="广元公共" group-title="地方频道",广元公共
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
+#EXTINF:-1 tvg-name="吉林生活" group-title="地方频道",吉林生活
+http://103.236.77.86:29824/968553133
 #EXTINF:-1 tvg-name="浙江钱江都市" group-title="地方频道",浙江钱江都市
 http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
+#EXTINF:-1 tvg-name="陈慧娴逝去的诺言" group-title="地方频道",陈慧娴逝去的诺言
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/i78cWdjCSglPJHDaedL%40%40ld.m3u8
 #EXTINF:-1 tvg-name="剑阁综合" group-title="地方频道",剑阁综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+#EXTINF:-1 tvg-name="发现之旅" group-title="地方频道",发现之旅
+http://103.236.77.86:29824/624878970
 #EXTINF:-1 tvg-name="余姚姚江文化" group-title="地方频道",余姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 #EXTINF:-1 tvg-name="云和新闻综合" group-title="地方频道",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="广州综合" group-title="地方频道",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+#EXTINF:-1 tvg-name="老故事" group-title="地方频道",老故事
+http://113.98.11.46:3000/884121956
 #EXTINF:-1 tvg-name="广州竞赛" group-title="地方频道",广州竞赛
 http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1 tvg-name="海宁新闻综合" group-title="地方频道",海宁新闻综合
@@ -256,26 +288,40 @@ https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 #EXTINF:-1 tvg-name="缙云综合" group-title="地方频道",缙云综合
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
+#EXTINF:-1 tvg-name="壶关电视台" group-title="地方频道",壶关电视台
+http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8?zshanxd
+#EXTINF:-1 tvg-name="烟台公共" group-title="地方频道",烟台公共
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
 #EXTINF:-1 tvg-name="云和新闻综合" group-title="地方频道",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 #EXTINF:-1 tvg-name="辽宁公共" group-title="地方频道",辽宁公共
 http://120.76.248.139/live/bfgd/4200000481.m3u8
 #EXTINF:-1 tvg-name="浙江生活" group-title="地方频道",浙江生活
 http://ls.qingting.fm/live/1099.m3u8
+#EXTINF:-1 tvg-name="南京十八" group-title="地方频道",南京十八
+http://113.98.11.46:3000/838151753
 #EXTINF:-1 tvg-name="泸县新闻综合" group-title="地方频道",泸县新闻综合
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 #EXTINF:-1 tvg-name="上虞新闻综合" group-title="地方频道",上虞新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="中学生" group-title="地方频道",中学生
+http://103.236.77.86:29824/708869532
 #EXTINF:-1 tvg-name="倩女幽魂妖魔道" group-title="地方频道",倩女幽魂妖魔道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 #EXTINF:-1 tvg-name="旺苍新闻综合" group-title="地方频道",旺苍新闻综合
 http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 tvg-name="广东珠江" group-title="地方频道",广东珠江
+http://113.98.11.46:3000/639731952
 #EXTINF:-1 tvg-name="广安公共" group-title="地方频道",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 #EXTINF:-1 tvg-name="泸县新闻综合" group-title="地方频道",泸县新闻综合
 http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8
 #EXTINF:-1 tvg-name="沭阳综合" group-title="地方频道",沭阳综合
 http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+#EXTINF:-1 tvg-name="上海第一" group-title="地方频道",上海第一
+http://113.98.11.46:3000/608780988
+#EXTINF:-1 tvg-name="老故事" group-title="地方频道",老故事
+http://103.236.77.86:29824/884121956
 #EXTINF:-1 tvg-name="环球电视" group-title="地方频道",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="井研综合" group-title="地方频道",井研综合
@@ -298,22 +344,46 @@ http://120.76.248.139/live/bfgd/4200000077.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 #EXTINF:-1 tvg-name="南国都市" group-title="地方频道",南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+#EXTINF:-1 tvg-name="南京新闻综合" group-title="地方频道",南京新闻综合
+http://113.98.11.46:3000/838109047
+#EXTINF:-1 tvg-name="南方影视" group-title="地方频道",南方影视
+http://103.236.77.86:29824/614961829
 #EXTINF:-1 tvg-name="萧山综合" group-title="地方频道",萧山综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 tvg-name="吉林乡村" group-title="地方频道",吉林乡村
+http://113.98.11.46:3000/968553176
+#EXTINF:-1 tvg-name="吉林影视" group-title="地方频道",吉林影视
+http://103.236.77.86:29824/968553184
 #EXTINF:-1 tvg-name="中华特产" group-title="地方频道",中华特产
 http://120.76.248.139/live/bfgd/4200000158.m3u8
+#EXTINF:-1 tvg-name="南方影视" group-title="地方频道",南方影视
+http://113.98.11.46:3000/614961829
 #EXTINF:-1 tvg-name="重温经典" group-title="地方频道",重温经典
 http://8.138.7.223/tv/cwjd.php
+#EXTINF:-1 tvg-name="南京教科" group-title="地方频道",南京教科
+http://113.98.11.46:3000/838153729
+#EXTINF:-1 tvg-name="南京十八" group-title="地方频道",南京十八
+http://103.236.77.86:29824/838151753
 #EXTINF:-1 tvg-name="上虞新商都" group-title="地方频道",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 tvg-name="吉林都市" group-title="地方频道",吉林都市
+http://113.98.11.46:3000/968553190
 #EXTINF:-1 tvg-name="武进生活" group-title="地方频道",武进生活
 http://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-name="东莞新闻综合" group-title="地方频道",东莞新闻综合
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1 tvg-name="广东珠江" group-title="地方频道",广东珠江
+http://103.236.77.86:29824/639731952
+#EXTINF:-1 tvg-name="吉林影视" group-title="地方频道",吉林影视
+http://113.98.11.46:3000/968553184
 #EXTINF:-1 tvg-name="朝天综合" group-title="地方频道",朝天综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
-#EXTINF:-1 tvg-name="长影频道" group-title="地方频道",长影频道
+#EXTINF:-1 tvg-name="吉林生活" group-title="地方频道",吉林生活
+http://113.98.11.46:3000/968553133
+#EXTINF:-1 tvg-name="长影" group-title="地方频道",长影
 http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-name="吉林都市" group-title="地方频道",吉林都市
+http://103.236.77.86:29824/968553190
 #EXTINF:-1 tvg-name="昌黎综合" group-title="地方频道",昌黎综合
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="河北农民" group-title="地方频道",河北农民
@@ -348,12 +418,22 @@ https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
 #EXTINF:-1 tvg-name="黄山排云亭" group-title="地方频道",黄山排云亭
 https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 tvg-name="江苏教育" group-title="地方频道",江苏教育
+http://113.98.11.46:3000/628008321
 #EXTINF:-1 tvg-name="贵州省兴义市万峰林" group-title="地方频道",贵州省兴义市万峰林
 https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 tvg-name="江苏影视" group-title="地方频道",江苏影视
+http://113.98.11.46:3000/626064697
 #EXTINF:-1 tvg-name="雪乡大石碑" group-title="地方频道",雪乡大石碑
 https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 tvg-name="江苏" group-title="地方频道",江苏
+http://113.98.11.46:3000/626064674
 #EXTINF:-1 tvg-name="福建武夷山玉女峰" group-title="地方频道",福建武夷山玉女峰
 https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 tvg-name="江苏城市" group-title="地方频道",江苏城市
+http://103.236.77.86:29824/626064714
+#EXTINF:-1 tvg-name="江苏城市" group-title="地方频道",江苏城市
+http://113.98.11.46:3000/626064714
 #EXTINF:-1 tvg-name="纬来精采台" group-title="地方频道",纬来精采台
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="四川峨眉山普贤菩萨铜像" group-title="地方频道",四川峨眉山普贤菩萨铜像
@@ -382,8 +462,6 @@ https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
 #EXTINF:-1 tvg-name="泰山主峰" group-title="地方频道",泰山主峰
 https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
-#EXTINF:-1 tvg-name="江苏徐州云龙湖风景区云龙山观景台西" group-title="地方频道",江苏徐州云龙湖风景区云龙山观景台西
-https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 #EXTINF:-1 tvg-name="泰山望人松" group-title="地方频道",泰山望人松
 https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
 #EXTINF:-1 tvg-name="湖南张家界水绕四门" group-title="地方频道",湖南张家界水绕四门
@@ -432,26 +510,46 @@ https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
 #EXTINF:-1 tvg-name="江苏南京牛首山" group-title="地方频道",江苏南京牛首山
 https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 tvg-name="猪侠英雄" group-title="地方频道",猪侠英雄
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+#EXTINF:-1 tvg-name="狮子王国" group-title="地方频道",狮子王国
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+#EXTINF:-1 tvg-name="江苏" group-title="地方频道",江苏
+http://103.236.77.86:29824/626064674
 #EXTINF:-1 tvg-name="泰山白云亭悬崖" group-title="地方频道",泰山白云亭悬崖
 https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
 #EXTINF:-1 tvg-name="泰山玉皇顶" group-title="地方频道",泰山玉皇顶
 https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
 #EXTINF:-1 tvg-name="四川峨眉山远眺贡嘎雪山" group-title="地方频道",四川峨眉山远眺贡嘎雪山
 https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 tvg-name="海南广播电视总台社会与法" group-title="地方频道",海南广播电视总台社会与法
+http://113.98.11.46:3000/962045223
 #EXTINF:-1 tvg-name="邢台综合" group-title="地方频道",邢台综合
 http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="江夏新闻综合" group-title="地方频道",江夏新闻综合
 http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 #EXTINF:-1 tvg-name="安徽池州九华山风景区九华山" group-title="地方频道",安徽池州九华山风景区九华山
 https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 tvg-name="海南广播电视总台文旅" group-title="地方频道",海南广播电视总台文旅
+http://113.98.11.46:3000/962067526
 #EXTINF:-1 tvg-name="邢台综合" group-title="地方频道",邢台综合
 https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="邯郸科技教育" group-title="地方频道",邯郸科技教育
 https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="海南广播电视总台社会与法" group-title="地方频道",海南广播电视总台社会与法
+http://103.236.77.86:29824/962045223
 #EXTINF:-1 tvg-name="六盘山红军长征景区" group-title="地方频道",六盘山红军长征景区
 https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 tvg-name="海南广播电视总台文旅" group-title="地方频道",海南广播电视总台文旅
+http://103.236.77.86:29824/962067526
+#EXTINF:-1 tvg-name="江苏影视" group-title="地方频道",江苏影视
+http://103.236.77.86:29824/626064697
+#EXTINF:-1 tvg-name="海南广播电视总台自贸" group-title="地方频道",海南广播电视总台自贸
+http://113.98.11.46:3000/962045226
 #EXTINF:-1 tvg-name="四川峨眉山远眺万佛顶" group-title="地方频道",四川峨眉山远眺万佛顶
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 tvg-name="江苏教育" group-title="地方频道",江苏教育
+http://103.236.77.86:29824/628008321
 #EXTINF:-1 tvg-name="四川科教" group-title="地方频道",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-name="黄花城水长城03" group-title="地方频道",黄花城水长城03
@@ -510,6 +608,8 @@ https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
 #EXTINF:-1 tvg-name="兵团八师石河子新闻综合" group-title="地方频道",兵团八师石河子新闻综合
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+#EXTINF:-1 tvg-name="熊大熊二" group-title="地方频道",熊大熊二
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 #EXTINF:-1 tvg-name="南京玄武湖公园" group-title="地方频道",南京玄武湖公园
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 #EXTINF:-1 tvg-name="句容党建" group-title="地方频道",句容党建
@@ -522,6 +622,8 @@ http://ls.qingting.fm/live/4885.m3u8
 https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
 #EXTINF:-1 tvg-name="乌镇西市河" group-title="地方频道",乌镇西市河
 https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 tvg-name="倒霉特熊" group-title="地方频道",倒霉特熊
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 #EXTINF:-1 tvg-name="乌镇蓝印花布" group-title="地方频道",乌镇蓝印花布
 https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
 #EXTINF:-1 tvg-name="乌镇龙形田" group-title="地方频道",乌镇龙形田
@@ -540,10 +642,14 @@ https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 #EXTINF:-1 tvg-name="双辽综合" group-title="地方频道",双辽综合
 http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
+#EXTINF:-1 tvg-name="反转星球" group-title="地方频道",反转星球
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
 #EXTINF:-1 tvg-name="五彩池" group-title="地方频道",五彩池
 https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
 #EXTINF:-1 tvg-name="东丰综合" group-title="地方频道",东丰综合
 http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
+#EXTINF:-1 tvg-name="云朵妈妈" group-title="地方频道",云朵妈妈
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 #EXTINF:-1 tvg-name="白银综合" group-title="地方频道",白银综合
 http://play.kankanlive.com/live/1720408089419110.m3u8
 #EXTINF:-1 tvg-name="云南白沙远眺玉龙雪山" group-title="地方频道",云南白沙远眺玉龙雪山
@@ -648,8 +754,12 @@ http://live.iwcmt.cn:90/live/zhxw.m3u8
 https://live.ottiptv.cc/yy/1354930934
 #EXTINF:-1 tvg-name="熊猫直播" group-title="地方频道",熊猫直播
 https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+#EXTINF:-1 tvg-name="广东影视" group-title="地方频道",广东影视
+https://live.goodiptv.club/api/itouch.php?id=1199
 #EXTINF:-1 tvg-name="永昌综合" group-title="地方频道",永昌综合
 https://play.kankanlive.com/live/1652755738635915.m3u8
+#EXTINF:-1 tvg-name="河源公共" group-title="地方频道",河源公共
+https://live.goodiptv.club/api/itouch.php?id=2496
 #EXTINF:-1 tvg-name="唐诡之西行" group-title="地方频道",唐诡之西行
 https://live.ottiptv.cc/huya/26355763
 #EXTINF:-1 tvg-name="直播中国" group-title="地方频道",直播中国
@@ -658,6 +768,10 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 https://live.ottiptv.cc/huya/11342418
 #EXTINF:-1 tvg-name="父母爱情" group-title="地方频道",父母爱情
 https://live.ottiptv.cc/yy/1354926650
+#EXTINF:-1 tvg-name="东莞公共" group-title="地方频道",东莞公共
+https://live.goodiptv.club/api/itouch.php?id=1235
+#EXTINF:-1 tvg-name="深圳电视台财*生活" group-title="地方频道",深圳电视台财*生活
+https://live.goodiptv.club/api/itouch.php?id=1209
 #EXTINF:-1 tvg-name="中国村庄" group-title="地方频道",中国村庄
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
 #EXTINF:-1 tvg-name="云南都市" group-title="地方频道",云南都市
@@ -684,8 +798,6 @@ http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 http://ls.qingting.fm/live/267.m3u8
 #EXTINF:-1 tvg-name="龙井综合" group-title="地方频道",龙井综合
 http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
-#EXTINF:-1 tvg-name="广东珠江" group-title="地方频道",广东珠江
-http://r.jdshipin.com/sE5vO
 #EXTINF:-1 tvg-name="黑龙江都市" group-title="地方频道",黑龙江都市
 https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 #EXTINF:-1 tvg-name="欢乐颂" group-title="地方频道",欢乐颂
@@ -774,6 +886,8 @@ https://live.ottiptv.cc/huya/23865142
 https://live.ottiptv.cc/huya/23903130
 #EXTINF:-1 tvg-name="名侦探柯南" group-title="地方频道",名侦探柯南
 https://live.ottiptv.cc/huya/30080236
+#EXTINF:-1 tvg-name="上林电视台" group-title="地方频道",上林电视台
+http://hls.nntv.cn/nnlive/SLTV_A.m3u8?zguangxd
 #EXTINF:-1 tvg-name="广州南国都市" group-title="地方频道",广州南国都市
 http://r.jdshipin.com/nWaZO
 #EXTINF:-1 tvg-name="鬼吹灯之龙岭迷窟" group-title="地方频道",鬼吹灯之龙岭迷窟
@@ -818,10 +932,16 @@ http://www.goodiptv.club/douyu/5522351
 https://live.ottiptv.cc/yy/37999586
 #EXTINF:-1 tvg-name="贝爷求生" group-title="地方频道",贝爷求生
 http://www.goodiptv.club/douyu/9661369
+#EXTINF:-1 tvg-name="黑龙江文体" group-title="地方频道",黑龙江文体
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8?zheild
+#EXTINF:-1 tvg-name="黑龙江公共" group-title="地方频道",黑龙江公共
+https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8?zheild
 #EXTINF:-1 tvg-name="梅河口综合" group-title="地方频道",梅河口综合
 http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
 #EXTINF:-1 tvg-name="新白娘子传奇" group-title="地方频道",新白娘子传奇
 https://live.ottiptv.cc/yy/1354490667
+#EXTINF:-1 tvg-name="黑龙江都市" group-title="地方频道",黑龙江都市
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8?zheild
 #EXTINF:-1 tvg-name="绍兴公共" group-title="地方频道",绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 tvg-name="水浒传" group-title="地方频道",水浒传
@@ -858,8 +978,6 @@ http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="梨园" group-title="地方频道",梨园
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
-#EXTINF:-1 tvg-name="浙江钱江" group-title="地方频道",浙江钱江
-http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 tvg-name="烟台公共" group-title="地方频道",烟台公共
 http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 #EXTINF:-1 tvg-name="西游记" group-title="地方频道",西游记
@@ -870,12 +988,16 @@ https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 #EXTINF:-1 tvg-name="天龙八部" group-title="地方频道",天龙八部
 https://live.ottiptv.cc/yy/1351814644
+#EXTINF:-1 tvg-name="海绵宝宝" group-title="地方频道",海绵宝宝
+https://www.goodiptv.club/douyu/2250349
 #EXTINF:-1 tvg-name="璧山综合" group-title="地方频道",璧山综合
 http://222.179.42.129:8181/hls1.m3u8
 #EXTINF:-1 tvg-name="电视指南" group-title="地方频道",电视指南
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
 #EXTINF:-1 tvg-name="三国演义" group-title="地方频道",三国演义
 https://live.ottiptv.cc/huya/11602081
+#EXTINF:-1 tvg-name="陕西都市青春" group-title="地方频道",陕西都市青春
+http://113.98.11.46:3000/956909358
 #EXTINF:-1 tvg-name="平遥新闻综合" group-title="地方频道",平遥新闻综合
 https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 #EXTINF:-1 tvg-name="永嘉新闻综合" group-title="地方频道",永嘉新闻综合
@@ -898,20 +1020,44 @@ http://173.208.234.146/live/vlxyj.m3u8
 https://live.ottiptv.cc/huya/20985816
 #EXTINF:-1 tvg-name="经典剧集" group-title="地方频道",经典剧集
 http://www.goodiptv.club/douyu/6863367
+#EXTINF:-1 tvg-name="陕西秦腔" group-title="地方频道",陕西秦腔
+http://103.236.77.86:29824/956909303
+#EXTINF:-1 tvg-name="陕西银龄" group-title="地方频道",陕西银龄
+http://103.236.77.86:29824/956909362
+#EXTINF:-1 tvg-name="陕西银龄" group-title="地方频道",陕西银龄
+http://113.98.11.46:3000/956909362
 #EXTINF:-1 tvg-name="古装武侠" group-title="地方频道",古装武侠
 http://www.goodiptv.club/douyu/2793084
+#EXTINF:-1 tvg-name="茌平生活" group-title="地方频道",茌平生活
+https://jsylivealone302.iqilu.com/live/chiping_tv02/index.m3u8?shandd
+#EXTINF:-1 tvg-name="陕西都市青春" group-title="地方频道",陕西都市青春
+http://103.236.77.86:29824/956909358
 #EXTINF:-1 tvg-name="定襄综合" group-title="地方频道",定襄综合
 http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
+#EXTINF:-1 tvg-name="陕西秦腔" group-title="地方频道",陕西秦腔
+http://113.98.11.46:3000/956909303
 #EXTINF:-1 tvg-name="鹿鼎记" group-title="地方频道",鹿鼎记
 https://live.ottiptv.cc/yy/28265277
 #EXTINF:-1 tvg-name="怀仁综合" group-title="地方频道",怀仁综合
 https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
+#EXTINF:-1 tvg-name="财富天下" group-title="地方频道",财富天下
+http://113.98.11.46:3000/956923159
 #EXTINF:-1 tvg-name="七龙珠" group-title="地方频道",七龙珠
 https://live.ottiptv.cc/huya/11601966
+#EXTINF:-1 tvg-name="中学生" group-title="地方频道",中学生
+http://113.98.11.46:3000/708869532
+#EXTINF:-1 tvg-name="财富天下" group-title="地方频道",财富天下
+http://103.236.77.86:29824/956923159
+#EXTINF:-1 tvg-name="发现之旅" group-title="地方频道",发现之旅
+http://113.98.11.46:3000/624878970
+#EXTINF:-1 tvg-name="肇庆生活" group-title="地方频道",肇庆生活
+https://live.goodiptv.club/api/itouch.php?id=2525
 #EXTINF:-1 tvg-name="晋江电视台" group-title="地方频道",晋江电视台
 http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 #EXTINF:-1 tvg-name="荆门新闻综合" group-title="地方频道",荆门新闻综合
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="晋城公共" group-title="地方频道",晋城公共
+http://live.jinnews.com.cn/ggpd/sd/live.m3u8?zshanxd
 #EXTINF:-1 tvg-name="新沂生活" group-title="地方频道",新沂生活
 http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="德惠综合" group-title="地方频道",德惠综合
@@ -960,8 +1106,6 @@ https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e
 http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="双辽" group-title="地方频道",双辽
 http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="广东珠江" group-title="地方频道",广东珠江
-http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="柳河" group-title="地方频道",柳河
 http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="桦甸" group-title="地方频道",桦甸
