@@ -316,6 +316,8 @@ https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
 https://cdnsk003.panaccess.com/local/Markiza/index.m3u8
 #EXTINF:-1 tvg-name="TraceLatina" group-title="海外频道",TraceLatina
 https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
+#EXTINF:-1 tvg-name="S4C" group-title="海外频道",S4C
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 tvg-name="ДІМ" group-title="海外频道",ДІМ
 https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT" group-title="海外频道",TRT
@@ -662,6 +664,8 @@ https://iptv.prosto.tv/ch171/index.m3u8
 https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
 #EXTINF:-1 tvg-name="EBS2" group-title="海外频道",EBS2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="RotanaMusic" group-title="海外频道",RotanaMusic
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-name="Star" group-title="海外频道",Star
 https://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-name="AlJazeera" group-title="海外频道",AlJazeera
@@ -698,6 +702,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ec
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Wanasah" group-title="海外频道",Wanasah
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+#EXTINF:-1 tvg-name="RotanaCiip" group-title="海外频道",RotanaCiip
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-name="HirshabelleTV" group-title="海外频道",HirshabelleTV
 https://cd198.anystream.uk:9092/iqapp/h1rshbe1iptv/playlist.m3u8
 #EXTINF:-1 tvg-name="ICIRDI" group-title="海外频道",ICIRDI
@@ -740,6 +746,10 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://www.ntimedia.it/video/S0B/S0B_master.m3u8
 #EXTINF:-1 tvg-name="CityTV" group-title="海外频道",CityTV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-name="RotanaComedy" group-title="海外频道",RotanaComedy
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="RotanaDrama" group-title="海外频道",RotanaDrama
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-name="Videonovara" group-title="海外频道",Videonovara
 https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8
 #EXTINF:-1 tvg-name="ImediTV" group-title="海外频道",ImediTV
@@ -788,15 +798,5 @@ https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
 https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1 tvg-name="Kanal5Ⓢ" group-title="海外频道",Kanal5Ⓢ
 https://teve.mk/tvstanici/2/playlist.m3u8
-#EXTINF:-1 tvg-name="TéléTchad" group-title="海外频道",TéléTchad
-https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
-#EXTINF:-1 tvg-name="CMCTV" group-title="海外频道",CMCTV
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-name="Televizija5" group-title="海外频道",Televizija5
-https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1 tvg-name="BonDia" group-title="海外频道",BonDia
-https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
-#EXTINF:-1 tvg-name="ZDFneo" group-title="海外频道",ZDFneo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="Viutv" group-title="海外频道",Viutv
 http://r.jdshipin.com/TcKr2
