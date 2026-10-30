@@ -156,12 +156,12 @@ http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 #EXTINF:-1 tvg-name="新视觉" group-title="地方频道",新视觉
 http://120.76.248.139/live/bfgd/4200000249.m3u8
-#EXTINF:-1 tvg-name="滨海新闻综合" group-title="地方频道",滨海新闻综合
-http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 #EXTINF:-1 tvg-name="宿州公共" group-title="地方频道",宿州公共
 http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
 #EXTINF:-1 tvg-name="春晚" group-title="地方频道",春晚
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
+#EXTINF:-1 tvg-name="滨海新闻综合" group-title="地方频道",滨海新闻综合
+http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 #EXTINF:-1 tvg-name="夹江新闻综合" group-title="地方频道",夹江新闻综合
 http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
 #EXTINF:-1 tvg-name="松潘新闻综合" group-title="地方频道",松潘新闻综合
@@ -944,6 +944,8 @@ http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
 https://live.ottiptv.cc/yy/1354490667
 #EXTINF:-1 tvg-name="黑龙江都市" group-title="地方频道",黑龙江都市
 https://idclive.hljtv.com:4430/live/dushi_hd.m3u8?zheild
+#EXTINF:-1 tvg-name="兵团五师双河新闻综合" group-title="地方频道",兵团五师双河新闻综合
+http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 #EXTINF:-1 tvg-name="绍兴公共" group-title="地方频道",绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 tvg-name="水浒传" group-title="地方频道",水浒传
