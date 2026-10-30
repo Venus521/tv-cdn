@@ -130,6 +130,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-r
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-name="NDTVIndia" group-title="海外频道",NDTVIndia
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8
+#EXTINF:-1 tvg-name="RTP2" group-title="海外频道",RTP2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="AlSaudiya" group-title="海外频道",AlSaudiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-name="Thikrayat" group-title="海外频道",Thikrayat
@@ -796,7 +798,5 @@ https://mcdn-one.ard.de/ardone/hls/master.m3u8
 https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
 #EXTINF:-1 tvg-name="Acheloos" group-title="海外频道",Acheloos
 https://acheloostv.streamings.gr/live/stream/index.m3u8
-#EXTINF:-1 tvg-name="Kanal5Ⓢ" group-title="海外频道",Kanal5Ⓢ
-https://teve.mk/tvstanici/2/playlist.m3u8
 #EXTINF:-1 tvg-name="Viutv" group-title="海外频道",Viutv
 http://r.jdshipin.com/TcKr2
