@@ -237,7 +237,7 @@ http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
 http://59.39.89.130:60901/tsfile/live/0125_17.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
-http://101.66.198.184:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+http://121.19.134.149:808/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
 http://59.39.89.130:60901/tsfile/live/0125_4.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
@@ -788,8 +788,6 @@ http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A
 http://www.guzhenm.com:7001/hls/hd-live.m3u8
 #EXTINF:-1 tvg-name="东莞新闻" group-title="新闻财经",东莞新闻
 https://live.goodiptv.club/api/itouch.php?id=2395
-#EXTINF:-1 tvg-name="兵团五师双河新闻" group-title="新闻财经",兵团五师双河新闻
-http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 #EXTINF:-1 tvg-name="烟台经济科技" group-title="新闻财经",烟台经济科技
 http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
 #EXTINF:-1 tvg-name="武进新闻" group-title="新闻财经",武进新闻
@@ -1842,6 +1840,8 @@ http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
 https://live.ottiptv.cc/yy/1354490667
 #EXTINF:-1 tvg-name="黑龙江都市" group-title="地方频道",黑龙江都市
 https://idclive.hljtv.com:4430/live/dushi_hd.m3u8?zheild
+#EXTINF:-1 tvg-name="兵团五师双河新闻综合" group-title="地方频道",兵团五师双河新闻综合
+http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 #EXTINF:-1 tvg-name="绍兴公共" group-title="地方频道",绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 tvg-name="水浒传" group-title="地方频道",水浒传
@@ -2530,6 +2530,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
 #EXTINF:-1 tvg-name="9XJalwa" group-title="海外频道",9XJalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-name="RTP2" group-title="海外频道",RTP2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="AlSaudiya" group-title="海外频道",AlSaudiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-name="TraceMziki" group-title="海外频道",TraceMziki
@@ -2908,6 +2910,8 @@ https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-name="CerritosTV3" group-title="海外频道",CerritosTV3
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
+#EXTINF:-1 tvg-name="VintageMusic" group-title="海外频道",VintageMusic
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-name="CameraSmileTV" group-title="海外频道",CameraSmileTV
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-name="CBNEspanol" group-title="海外频道",CBNEspanol
@@ -3464,6 +3468,8 @@ https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="FIFA+Spain" group-title="海外频道",FIFA+Spain
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="PTV" group-title="海外频道",PTV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="BarkTV" group-title="海外频道",BarkTV
 https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
 #EXTINF:-1 tvg-name="ICTVSerialy" group-title="海外频道",ICTVSerialy
@@ -4330,6 +4336,8 @@ http://stream.mcquack.net/242/index.m3u8
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Noticias16" group-title="海外频道",Noticias16
 https://edge.essastream.com/noticias16/playlist.m3u8
+#EXTINF:-1 tvg-name="StarTV" group-title="海外频道",StarTV
+https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8
 #EXTINF:-1 tvg-name="PanoramaTV" group-title="海外频道",PanoramaTV
 https://159.69.221.56/panorama/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="UNWebTV" group-title="海外频道",UNWebTV
@@ -4640,6 +4648,8 @@ https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="TraceUrban" group-title="海外频道",TraceUrban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="LasEstrellas" group-title="海外频道",LasEstrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-name="Tropoja" group-title="海外频道",Tropoja
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NewsLeader" group-title="海外频道",NewsLeader
@@ -5328,6 +5338,8 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/ma
 https://media.rtvnoord.nl/live/rtvnoord/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TheJungleBook" group-title="海外频道",TheJungleBook
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-name="RadioHitFMTV" group-title="海外频道",RadioHitFMTV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
 #EXTINF:-1 tvg-name="RadioRAM" group-title="海外频道",RadioRAM
 https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
 #EXTINF:-1 tvg-name="GoldStar" group-title="海外频道",GoldStar
@@ -5744,6 +5756,8 @@ https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 #EXTINF:-1 tvg-name="CompanyTv" group-title="海外频道",CompanyTv
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT2" group-title="海外频道",TRT2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="W14DK-D14.1" group-title="海外频道",W14DK-D14.1
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1 tvg-name="SchwabNetwork" group-title="海外频道",SchwabNetwork
