@@ -3657,7 +3657,7 @@
     {
       "name": "追剧轮播·动漫+剧集",
       "type": "multi",
-      "url": "https://cdn.jsdelivr.net/gh/Venus521/tv-cdn@main/loop.m3u"
+      "url": "https://cdn.jsdelivr.net/gh/Venus521/tv-cdn@ecd5702dd00fb30687ec25a24aaf0cded310d249/loop.m3u"
     }
   ],
   "parses": [
